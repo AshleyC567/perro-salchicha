@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Birthday</title>
+</head>
+<body>
+
+<h1>It's My Birthday!</h1>
+<h2>On the 12h of April, 2011</h2>
+<img src="HappyBirthday.jpg" alt="Genshin themed birthday picture" width="333" height="333">
+
+<h3>What to bring:</h3>
+<ul>
+    <li>Presents (I better get presents, bro)</li>
+    <li>Good vibes (No one sad and gloomy is allowed into my party)</li>
+    <li>A Turron (a Peruvian dessert)</li>
+</ul>
+
+<a href="https://www.google.com/maps/place/Godzilla's+Home/">Location of the party</a>
+<p><a href="../index.html">Back to Home Page</a></p>
+
+</body>
+</html>
